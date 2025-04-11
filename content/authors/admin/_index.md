@@ -30,8 +30,6 @@ organizations:
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  - icon: brands/github
-    url: https://github.com/loublanpain
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/lou-blanpain-a8934bb4/
   - icon: academicons/google-scholar
@@ -40,7 +38,7 @@ profiles:
     url: https://orcid.org/0000-0002-6022-9654
 
 interests:
-  - TO COMPLETE
+  - 
 
 education:
   - area: MD-PhD
@@ -48,7 +46,6 @@ education:
     date_start: 2016-08-01
     date_end: 2025-05-09
     summary: |
-      TO COMPLETE
     button:
       text: ''
       url: ''
@@ -69,8 +66,7 @@ work:
     date_start: 
     date_end: ''
     summary: |2-
-      Responsibilities include:
-      - 
+      
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -115,4 +111,3 @@ awards:
 
 ## About Me
 
-TO COMPLETE
